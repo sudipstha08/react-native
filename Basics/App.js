@@ -1,5 +1,4 @@
-import { StatusBar } from 'expo-status-bar';
-import { SafeAreaView, StyleSheet, Text, View, Alert,Image, Button,TouchableWithoutFeedback, TouchableOpacity, TouchableNativeFeedback } from 'react-native';
+import { SafeAreaView, StyleSheet, Text, StatusBar,View, Alert,Image, Button,TouchableWithoutFeedback, TouchableOpacity, TouchableNativeFeedback, Platform } from 'react-native';
 
 export default function App() {
   console.log("App executed")
@@ -29,14 +28,22 @@ export default function App() {
         {text: "Yes", onPress: () => console.log("Yes")},
         {text: "No", onPress: () => console.log("No")}
       ])}/>
+      <View style={viewStyles}>
+        <Text>Hello </Text>
+      </View>
     </SafeAreaView>
   );
+}
+
+const viewStyles = {
+  backgroundColor: "blue"
 }
 
 const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: '#fff',
+    paddingTop:Platform.OS === "android" ? StatusBar.currentHeight : 0,
     // alignItems: 'center',
     // justifyContent: 'center',
   },
