@@ -1,7 +1,13 @@
 import { SafeAreaView, StyleSheet, Text, StatusBar,View, Alert,Image, Button,TouchableWithoutFeedback, TouchableOpacity, TouchableNativeFeedback, Platform } from 'react-native';
+import { useDimensions, useDeviceOrientation} from "@react-native-community/hooks"
+
 
 export default function App() {
   console.log("App executed")
+  const orientation = useDimensions()
+  const orientation2 = useDeviceOrientation()
+  console.log("ir", orientation)
+  console.log("ir2222", orientation2)
   return (
     <SafeAreaView style={styles.container} >
       <Text numberOfLines={3}>React Native provides a number of built-in Core Components ready for you to use in your app. You can find them all in the left sidebar (or menu above, if you are on a narrow screen). If you're not sure where to get started, take a look at the following categories:
@@ -30,6 +36,13 @@ export default function App() {
       ])}/>
       <View style={viewStyles}>
         <Text>Hello </Text>
+      </View>
+      <View style={{
+        backgroundColor: "green",
+        width: "100%",
+        height: "30%"
+      }}>
+
       </View>
     </SafeAreaView>
   );
