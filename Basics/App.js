@@ -1,5 +1,5 @@
 import { StatusBar } from 'expo-status-bar';
-import { SafeAreaView, StyleSheet, Text, View, Image, TouchableWithoutFeedback, TouchableOpacity, TouchableNativeFeedback } from 'react-native';
+import { SafeAreaView, StyleSheet, Text, View, Alert,Image, Button,TouchableWithoutFeedback, TouchableOpacity, TouchableNativeFeedback } from 'react-native';
 
 export default function App() {
   console.log("App executed")
@@ -24,6 +24,11 @@ export default function App() {
       <TouchableNativeFeedback>
         <View style={{ width: 200, height: 70 , backgroundColor: "dodgerblue"}}></View>
       </TouchableNativeFeedback>
+      <Button title="Click me" color="black" 
+       onPress={() => Alert.alert("Button tapped", "My message", [
+        {text: "Yes", onPress: () => console.log("Yes")},
+        {text: "No", onPress: () => console.log("No")}
+      ])}/>
     </SafeAreaView>
   );
 }
