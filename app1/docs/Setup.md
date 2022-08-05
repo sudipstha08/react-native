@@ -1,0 +1,1 @@
+1. npx react-native init app1 --template react-native-template-typescript
