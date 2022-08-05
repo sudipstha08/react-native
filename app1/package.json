@@ -7,9 +7,16 @@
     "ios": "react-native run-ios",
     "start": "react-native start",
     "test": "jest",
-    "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
+    "lint": "eslint './src/**/*.{ts,tsx}'",
+    "lint:fix": "eslint './src/**/*.{ts,tsx}' --fix",
+    "lint-staged": "lint-staged",
+    "fix": "yarn lint:ts --fix",
+    "format": "eslint -c .eslintrc.js --ignore-path .eslintignore --fix"
   },
   "dependencies": {
+    "husky": "^8.0.1",
+    "lint-staged": "^13.0.3",
+    "pre-commit": "^1.2.2",
     "react": "18.0.0",
     "react-native": "0.69.3"
   },
@@ -40,5 +47,20 @@
       "json",
       "node"
     ]
-  }
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.{js,jsx,ts,tsx}": [
+      "yarn stylelint",
+      "yarn format",
+      "git-add"
+    ]
+  },
+  "pre-commit": [
+    "lint-staged"
+  ]
 }
