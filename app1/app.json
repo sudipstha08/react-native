@@ -1,4 +1,9 @@
 {
   "name": "app1",
-  "displayName": "app1"
+  "displayName": "app1",
+  "expo": {
+    "android": {
+      "permissions": ["READ_CALENDAR", "WRITE_CALENDAR"]
+    }
+  }
 }
