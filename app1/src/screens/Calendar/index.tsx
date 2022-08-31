@@ -1,8 +1,11 @@
 import React, { useEffect } from 'react';
 import { StyleSheet, View, Text, Button, Platform } from 'react-native';
 import * as Calendar from 'expo-calendar';
+import { useNavigation } from '@react-navigation/native';
 
 export function CalendarScreen() {
+const navigation = useNavigation()
+
   useEffect(() => {
     (async () => {
       if ( Platform.OS != 'ios') return
@@ -19,6 +22,11 @@ export function CalendarScreen() {
     <View style={styles.container}>
       <Text>Calendar Module Example</Text>
       <Button title="Create a new calendar" onPress={createCalendar} />
+
+      <Button title={"Go Back"} onPress={() => navigation.goBack()}/>
+
+      <Button title={"Open Modal"} onPress={() => navigation.navigate('Modal')}/>
+
     </View>
   );
 }

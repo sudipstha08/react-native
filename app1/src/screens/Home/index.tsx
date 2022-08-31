@@ -8,7 +8,8 @@
  * @format
  */
 
- import React, {type PropsWithChildren} from 'react';
+ import { useNavigation } from '@react-navigation/native';
+import React, {type PropsWithChildren} from 'react';
  import {
    SafeAreaView,
    ScrollView,
@@ -26,6 +27,7 @@
    LearnMoreLinks,
    ReloadInstructions,
  } from 'react-native/Libraries/NewAppScreen';
+import { Button } from '../../components';
  
  const Section: React.FC<
    PropsWithChildren<{
@@ -33,6 +35,8 @@
    }>
  > = ({children, title}) => {
    const isDarkMode = useColorScheme() === 'dark';
+const navigation = useNavigation()
+
    return (
      <View style={styles.sectionContainer}>
        <Text
@@ -44,6 +48,7 @@
          ]}>
          {title}
        </Text>
+       <Button title={"Go To Calendar Screen"} onPress={() => navigation.navigate("Calendar")}/>
        <Text
          style={[
            styles.sectionDescription,

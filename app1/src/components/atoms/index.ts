@@ -1,1 +1,1 @@
-export const atom = "atom"
+export {ButtonComponent as Button} from './Button'

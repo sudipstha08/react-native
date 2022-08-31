@@ -1,7 +1,7 @@
 import React from 'react'
-import {View, Text} from 'react-native'
 import {createNativeStackNavigator} from "@react-navigation/native-stack"
-import { HomeScreen } from '../screens'
+import { CalendarScreen, HomeScreen } from '../screens'
+import { Modal } from '../components'
 
 const Stack = createNativeStackNavigator()
 
@@ -10,6 +10,10 @@ const StackNavigator = () => {
         <Stack.Navigator screenOptions={{ headerShown: false}}>
           <Stack.Group>
             <Stack.Screen name="Home" component={HomeScreen}/>
+            <Stack.Screen name="Calendar" component={CalendarScreen}/>
+          </Stack.Group>
+          <Stack.Group screenOptions={{ presentation:'modal' }}>
+            <Stack.Screen name="Modal" component={Modal}/>
           </Stack.Group>
         </Stack.Navigator>
     )

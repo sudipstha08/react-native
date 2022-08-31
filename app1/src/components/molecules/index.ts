@@ -1,1 +1,1 @@
-export const mol = "mol"
+export {Modal} from './Modal'
