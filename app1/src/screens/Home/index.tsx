@@ -49,6 +49,7 @@ const navigation = useNavigation()
          {title}
        </Text>
        <Button title={"Go To Calendar Screen"} onPress={() => navigation.navigate("Calendar")}/>
+       <Button title={"Go To Profile Screen"} onPress={() => navigation.navigate("Profile")}/>
        <Text
          style={[
            styles.sectionDescription,
