@@ -4,6 +4,7 @@ learning react native
 1. npm start
 2. npx react-native run-android
 3. adb devices
+4. npx react-native@latest init AwesomeProject
 
 Density Independent Pixels 
 
