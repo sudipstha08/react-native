@@ -30,7 +30,7 @@ export const BottomNavigator = () => {
             return focused ? (
               <Icon name="bank" size={30} />
             ) : (
-              <Icon name="ios-person" size={30} />
+              <Icon name="bank" size={30} />
             );
           },
         }}
@@ -41,7 +41,7 @@ export const BottomNavigator = () => {
         options={{
           tabBarIcon: ({focused}) => {
             return focused ? (
-              <Icon name="bank" size={30} />
+              <Icon name="user" size={30} />
             ) : (
               <Icon name="user" size={30} />
             );
