@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "@react-native-community/hooks": "^2.8.1",
-    "react-native-element-dropdown": "^2.3.1"
-  }
-}
