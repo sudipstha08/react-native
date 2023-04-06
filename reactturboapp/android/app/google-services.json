@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "476677393196",
+    "project_id": "next-firebase-71a19",
+    "storage_bucket": "next-firebase-71a19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476677393196:android:5febc9bf8524cf09077a89",
+        "android_client_info": {
+          "package_name": "com.reactturbo.personal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476677393196-62hgnm9oa316u442uialn4na9b70l80v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcLf3WSMcqzmBBj4hpIh6DjDH_N7FTe2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476677393196-62hgnm9oa316u442uialn4na9b70l80v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "476677393196-arbrsjbcfaekkrnapvt0q65ubqbf9foi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nativeweek.native"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
