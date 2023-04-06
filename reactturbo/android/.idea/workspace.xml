@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8f4664c4-6b80-4104-87e1-dbf1d19b9b37" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.App.js.swo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.bundle/config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.env" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.expo-shared/assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.node-version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.prettierrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.watchmanconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadME.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__tests__/App-test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/debug.keystore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/google-services.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/debug/java/com/reactturbo/ReactNativeFlipper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/reactturbo/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/reactturbo/MainApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/rn_edit_text_material.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/release/java/com/reactturbo/ReactNativeFlipper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/adaptive-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/.xcode.env" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Podfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Podfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/reactturbo.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/reactturbo.xcodeproj/xcshareddata/xcschemes/reactturbo.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/reactturbo.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/reactturbo.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/reactturbo/AppDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/reactturbo/AppDelegate.mm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/reactturbo/Images.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/reactturbo/Images.xcassets/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/reactturbo/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/reactturbo/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/reactturbo/main.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/reactturboTests/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/reactturboTests/reactturboTests.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../metro.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/App.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/constants/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/navigators/app-navigator.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/navigators/bottom-navigator.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/navigators/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/navigators/stack/bottom.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/Account/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/Bookmarks/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/Home/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/Messages/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/Notifications/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/Profile/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/apple.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/google.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test2/apple.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test2/google.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test3/apple.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test3/google.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/.bundle/config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/.node-version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/.prettierrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/.watchmanconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/Gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/Gemfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/ReadMe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/__tests__/App-test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/android/app/debug.keystore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/android/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/android/app/src/debug/java/com/firebase/ReactNativeFlipper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/android/app/src/main/java/com/firebase/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/android/app/src/main/java/com/firebase/MainApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/android/app/src/main/res/drawable/rn_edit_text_material.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/android/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/android/app/src/release/java/com/firebase/ReactNativeFlipper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/android/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/android/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/android/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/ios/.xcode.env" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/ios/Podfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/ios/Podfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/ios/nativeweek.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/ios/nativeweek.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/Package.resolved" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/ios/nativeweek.xcodeproj/xcshareddata/xcschemes/nativeweek.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/ios/nativeweek.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/ios/nativeweek.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/ios/nativeweek.xcworkspace/xcshareddata/swiftpm/Package.resolved" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/ios/nativeweek/AppDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/ios/nativeweek/AppDelegate.mm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/ios/nativeweek/Images.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/ios/nativeweek/Images.xcassets/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/ios/nativeweek/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/ios/nativeweek/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/ios/nativeweek/main.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/ios/nativeweekTests/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/ios/nativeweekTests/firebaseTests.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/metro.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/src/App.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/src/components/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/src/constants/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/src/navigators/app-navigator.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/src/navigators/bottom-navigator.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/src/navigators/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/src/navigators/stack/bottom.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/src/screens/Account/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/src/screens/Bookmarks/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/src/screens/Home/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/src/screens/Messages/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/src/screens/Notifications/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/src/screens/Profile/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/src/screens/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nativeweek/yarn.lock" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[/Users/sudipshrestha/.android/avd/Pixel_6_Pro_API_33.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2O3J3GrMikjX9k2vChzfod5MmXH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "/Users/sudipshrestha/Documents/MY_PROJECTS/MOBILE/react-native/reactturbo/android"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="reactturbo.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f4664c4-6b80-4104-87e1-dbf1d19b9b37" name="Changes" comment="" />
+      <created>1680783131383</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680783131383</updated>
+    </task>
+    <servers />
+  </component>
+</project>

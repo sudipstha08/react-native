@@ -116,6 +116,7 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
+				8C9ED0C229DF2DDB0064B6DD /* Fonts */,
 				13B07FAE1A68108700A75B9A /* app1 */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* app1Tests */,
@@ -135,6 +136,13 @@
 				00E356EE1AD99517003FC87E /* app1Tests.xctest */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		8C9ED0C229DF2DDB0064B6DD /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Fonts;
 			sourceTree = "<group>";
 		};
 		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
