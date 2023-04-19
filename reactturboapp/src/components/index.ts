@@ -1,1 +1,3 @@
-export const a = 'a';
+export * from './atoms';
+export * from './molecules';
+export * from './organisms';
